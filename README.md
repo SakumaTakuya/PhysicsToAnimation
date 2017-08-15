@@ -7,7 +7,7 @@
 [![https://gyazo.com/a4d88b5b2d97459902df81d93eae3631](https://i.gyazo.com/a4d88b5b2d97459902df81d93eae3631.png)](https://gyazo.com/a4d88b5b2d97459902df81d93eae3631)
 ①対象のGameObjectを追加します
 
-②対象のGameObjectを選択します<b>
+②対象のGameObjectを選択します<br>
         ドラッグ&ドロップ、◎から設定できます
 	
 ③Meshを細かくするか設定します
